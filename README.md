@@ -54,6 +54,7 @@ Os sensores de célula de carga (HX711) são utilizados para medir o peso corpor
 Durante o desenvolvimento, algumas dificuldades foram encontradas, principalmente no funcionamento programação dos sensores de célula de carga para garantir medições precisas e confiáveis.
 
 ## Código fonte
+O código fonte está no arquivo<a href="https://github.com/devCaiqueWS/GS-Edge/blob/main/main.ino"> main.ino</a> do projeto.
 
 ## Link para vídeo explicativo
 
