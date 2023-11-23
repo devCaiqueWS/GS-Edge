@@ -21,7 +21,7 @@ Este projeto foi desenvolvido utilizando um ESP32 para aquisição de dados de b
 - Fonte de alimentação para os sensores ultrassônicos
 
 ## Esquema Elétrico
-Link para simulação no Wokwi: <a href="https://wokwi.com/projects/381390178121396225">https://wokwi.com/projects/</a>
+Link para simulação no Wokwi: <a href="https://wokwi.com/projects/381390178121396225">https://wokwi.com/projects/381390178121396225</a>
 - **Sensor de Peso (HX711):**
   - DOUT do HX711 -> Pino 32 (D32) do ESP32
   - CLK do HX711 -> Pino 33 (D33) do ESP32
