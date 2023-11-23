@@ -58,5 +58,10 @@ O código fonte está no arquivo<a href="https://github.com/devCaiqueWS/GS-Edge/
 
 ## Link para vídeo explicativo
 
+## Autores
+
+- Caíque Walter Silva [@devCaiqueWS](https://github.com/devCaiqueWS)
+- Guilherme Nobre Bernardo [@GN0Ber](https://github.com/GN0Ber)
+
 ## Conclusão
 Este projeto de bioimpedância utilizando ESP32, sensores de célula de carga e ultrassônicos oferece uma forma inicial de medir e estimar parâmetros corporais. As medições podem ser aprimoradas com calibrações mais precisas e análises adicionais para uma avaliação mais detalhada da composição corporal.
