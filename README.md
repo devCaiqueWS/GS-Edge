@@ -57,6 +57,7 @@ Durante o desenvolvimento, algumas dificuldades foram encontradas, principalment
 O código fonte está no arquivo<a href="https://github.com/devCaiqueWS/GS-Edge/blob/main/main.ino"> main.ino</a> do projeto.
 
 ## Link para vídeo explicativo
+https://www.youtube.com/watch?v=F0SPmZjMo6I | https://github.com/devCaiqueWS/GS-Edge/blob/main/GS2%20-%20EDGE%20COMPUTING.mp4
 
 ## Autores
 
